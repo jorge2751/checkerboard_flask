@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h1 {
+        margin: 28px;
+    }
+    table {
+        tr {
+            .color1 {
+                background-color: blue;
+            }
+            .color2 {
+                background-color: red;
+            }
+            td {
+                width: 50px;
+                height: 50px;
+                
+            }
+        }
+    }
+}
+
